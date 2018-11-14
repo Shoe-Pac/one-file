@@ -12,4 +12,8 @@ commit5
 
 commit6
 
+
 Linija dodana lokalno
+
+Linija dodana preko githuba
+
