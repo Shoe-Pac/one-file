@@ -18,3 +18,5 @@ Linija dodana lokalno
 Linija dodana preko githuba
 
 Nesto mijenjam na githubu
+
+promjena za mirzu
